@@ -1,0 +1,1 @@
+print("veenak + entry course")
